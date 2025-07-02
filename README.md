@@ -65,7 +65,7 @@ Gõ lệnh:
 bash g++ --version
 ✅ Nếu hiện phiên bản G++, bạn đã cài đặt thành công.
 
-#### 🧠 Mô tả chức năng
+# 🧠 Mô tả chức năng
 👥 Quản lý người dùng
 Đăng ký tài khoản
 
@@ -101,6 +101,6 @@ Không thể xoá tài khoản có vai trò admin
 
 Phân biệt chức năng qua role (admin / user)
 
-##### Tài khoản admin
+## Tài khoản admin
 username: admin
 password: 123456
