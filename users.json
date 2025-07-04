@@ -1,1 +1,21 @@
-
+[
+    {
+        "full_name": "Administrator",
+        "hashed_password": "626364656667110113122118123",
+        "role": "admin",
+        "username": "admin",
+        "wallet": {
+            "balance": 572,
+            "transactions": [
+                "Nhan 50 diem tu datdq",
+                "Nhan 10 diem tu datdq",
+                "Nhan 12 diem tu datdq",
+                "Nhan 100 diem tu xoa user dater",
+                "Tao user 'tester' va chuyen 100 diem",
+                "Tao user 'demo' va chuyen 100 diem",
+                "Tao user '123' va chuyen 100 diem"
+            ],
+            "wallet_id": "WALLET_admin"
+        }
+    }
+]
