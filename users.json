@@ -17,5 +17,31 @@
             ],
             "wallet_id": "WALLET_admin"
         }
+    },
+    {
+        "full_name": "dinh quoc dat",
+        "hashed_password": "626364656667113110129113126",
+        "role": "admin",
+        "username": "datdq",
+        "wallet": {
+            "balance": 28,
+            "transactions": [
+                "Chuyen 50 diem cho admin",
+                "Chuyen 10 diem cho admin",
+                "Chuyen 12 diem cho admin"
+            ],
+            "wallet_id": "WALLET_datdq"
+        }
+    },
+    {
+        "full_name": "Trung",
+        "hashed_password": "626364129114128129",
+        "role": "user",
+        "username": "test",
+        "wallet": {
+            "balance": 100,
+            "transactions": [],
+            "wallet_id": "WALLET_test"
+        }
     }
 ]
