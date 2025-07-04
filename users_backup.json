@@ -1,0 +1,51 @@
+[
+    {
+        "full_name": "Administrator",
+        "hashed_password": "626364656667110113122118123",
+        "role": "admin",
+        "username": "admin",
+        "wallet": {
+            "balance": 1000,
+            "transactions": [
+                "Nhan 50 diem tu datdq",
+                "Nhan 10 diem tu datdq",
+                "Nhan 12 diem tu datdq",
+                "Nhan 100 diem tu xoa user dater",
+                "Tao user 'tester' va chuyen 100 diem",
+                "Tao user 'demo' va chuyen 100 diem",
+                "Tao user '123' va chuyen 100 diem",
+                "Chuyen 120 diem cho datdq",
+                "Nhan 100 diem tu datdq"
+            ],
+            "wallet_id": "WALLET_admin"
+        }
+    },
+    {
+        "full_name": "dinh quoc dat",
+        "hashed_password": "626364656667113110129113126",
+        "role": "admin",
+        "username": "datdq",
+        "wallet": {
+            "balance": 48,
+            "transactions": [
+                "Chuyen 50 diem cho admin",
+                "Chuyen 10 diem cho admin",
+                "Chuyen 12 diem cho admin",
+                "Nhan 120 diem tu admin",
+                "Chuyen 100 diem cho admin"
+            ],
+            "wallet_id": "WALLET_datdq"
+        }
+    },
+    {
+        "full_name": "2",
+        "hashed_password": "626364113114122124",
+        "role": "user",
+        "username": "demo",
+        "wallet": {
+            "balance": 100,
+            "transactions": [],
+            "wallet_id": "WALLET_demo"
+        }
+    }
+]
